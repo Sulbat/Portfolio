@@ -1,0 +1,138 @@
+{
+    "basic_info": {
+      "description_header": "Bienvenue",
+      "description": "En tant que développeur full stack passionné, je possède l'expertise nécessaire pour créer des expériences web exceptionnelles de bout en bout. \ud83c\udf10\ud83d\udcbb \n\n Ma polyvalence me permet de maîtriser à la fois le développement front-end, avec une attention particulière portée à l'interface utilisateur et à l'expérience utilisateur, et le développement back-end, en construisant des systèmes robustes et sécurisés. \ud83d\udee8\ud83d\udd27\n\nMon approche axée sur la résolution de problèmes me permet de traduire les idées en code fonctionnel de manière efficace et élégante. \ud83d\udca1\ud83d\udcaa\n\nGrâce à mes compétences en gestion de bases de données et en déploiement, je suis en mesure de fournir des solutions complètes, prêtes à être utilisées par les utilisateurs. \ud83d\udd27\ud83d\ude80\n\nAvec mon expertise en développement full stack, je suis prêt à apporter une valeur ajoutée significative à tout projet et à contribuer à son succès. \ud83d\udcaf\ud83d\udd25",
+      "section_name": {
+        "about": "à propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expériences"
+      }
+    },
+    "projects": [
+      {
+        "title": "Booki",
+        "startDate": "2023",
+        "description": "Le but de ce projet était d'intégrer une maquette from scratch grâce aux langages HTML et CSS uniquement. Le tout en rendant le site responsive en desktop first.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/Sulbat/Booki",
+        "technologies": [
+          {
+            "name": "HTML 5",
+          "class": "devicon-html5-plain"
+          },
+          {
+            "name": "CSS 3",
+          "class": "devicon-css3-plain"
+          }
+        ]
+      },
+      {
+        "title": "Kasa",
+        "startDate": "2023",
+        "description": "Projet visant à intégrer en React la maquette d'un site de recherche de logements courte durée pour particuliers.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/Sulbat/Kasa",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "name": "Sass",
+          "class": "devicon-sass-original"
+          }
+        ]
+      },
+      {
+        "title": "Mon Vieux Grimoire",
+        "startDate": "2023",
+        "description": "Voici un projet ou j'ai été solicité en tant que renfort pour intégrer un back-end fonctionnel. Ici le principal challenge était de permettre la création d'utilisateurs, la gestion de ceux-ci de manière sécurisée (hash des mots de passes, tokens d'authentifiaction), ainsi que l'ajout et la suppression de manière dynamique de livres.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/Sulbat/Mon-Vieux-Grimoire",
+        "technologies": [
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Maîtres du Massage | Carrure Parfaite | Jardin Céleste",
+        "title": "Création de sites web via CMS ",
+        "years": "2019-2023",
+        "mainTech": [
+          "E-commerce"
+        ],
+        "technologies": [
+          "Google Ads",
+          "Google Analytics",
+          "Stripe",
+          "Merchant Center",
+          "Search Console"
+        ]
+      },
+        {
+          "company": "OpenClassRooms",
+          "title": "Bac +2 Développeur Web",
+          "years": "2022",
+          "mainTech": [
+            "HTML | CSS | JavaScript | React | NodeJS | TypeScript"
+          ],
+          "technologies": [
+            "REST API",
+            "Base de données",
+            "SCSS",
+            "Bootstrap",
+            "Tailwind",
+            "Git",
+            "Responsive Design"
+          ]
+        },  
+      {
+        "company": "Bar à Boucles | Info Webviser",
+        "title": "Réalisation de missions en Freelance",
+        "years": "2022-2023",
+        "mainTech": [
+          "Malt"
+        ],
+        "technologies": [
+          "Shopify",
+          "JavaScript",
+          "REST API",
+          "JSON"
+        ]
+      }
+    ]
+  }
