@@ -13,10 +13,10 @@
       {
         "title": "Booki",
         "startDate": "2023",
-        "description": "Le but de ce projet était d'intégrer une maquette from scratch grâce aux langages HTML et CSS uniquement. Le tout en rendant le site responsive en desktop first.",
+        "description": "Le but de ce projet était d'intégrer une maquette from scratch grâce aux langages HTML et CSS uniquement. Difficultées : se familiariser avec git et github et travailler au pixel près en suivant une maquette ,le tout en rendant le site responsive en desktop first.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/booki.png",
+          "images/portfolio/animal-shelter/booki2.png"
         ],
         "url": "https://github.com/Sulbat/Booki",
         "technologies": [
@@ -33,10 +33,10 @@
       {
         "title": "Kasa",
         "startDate": "2023",
-        "description": "Projet visant à intégrer en React la maquette d'un site de recherche de logements courte durée pour particuliers.",
+        "description": "Projet visant à intégrer en React la maquette d'un site de recherche de logements courte durée pour particuliers. Difficultées : Bien comprendre le système d'arborescence que propose React et apprendre à utiliser SAAS pour un gain de temps au niveau du CSS ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/kasa.png",
+          "images/portfolio/photography/kasa2.png"
         ],
         "url": "https://github.com/Sulbat/Kasa",
         "technologies": [
@@ -59,8 +59,8 @@
         "startDate": "2023",
         "description": "Voici un projet ou j'ai été solicité en tant que renfort pour intégrer un back-end fonctionnel. Ici le principal challenge était de permettre la création d'utilisateurs, la gestion de ceux-ci de manière sécurisée (hash des mots de passes, tokens d'authentifiaction), ainsi que l'ajout et la suppression de manière dynamique de livres.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/MVG.png",
+          "images/portfolio/adventure/MVG2.png"
         ],
         "url": "https://github.com/Sulbat/Mon-Vieux-Grimoire",
         "technologies": [
