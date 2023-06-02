@@ -15,8 +15,8 @@
         "startDate": "2023",
         "description": "The aim of this project was to integrate a model from scratch using HTML and CSS only. Challenges: getting to grips with git and github and working to the pixel following a mockup, all the while making the site desktop-first responsive.",
         "images": [
-          "images/portfolio/animal-shelter/booki.png",
-          "images/portfolio/animal-shelter/booki2.png"
+          "images/portfolio/adventure/livres.png",
+          "images/portfolio/adventure/livres2.png"
         ],
         "url": "https://github.com/Sulbat/Booki",
         "technologies": [
