@@ -15,10 +15,7 @@
         "startDate": "2023",
         "description": "Le but de ce projet était d'intégrer une maquette from scratch grâce aux langages HTML et CSS uniquement. Difficultées : se familiariser avec git et github et travailler au pixel près en suivant une maquette ,le tout en rendant le site responsive en desktop first.",
         "images": [
-          "images/portfolio/animal-shelter/booki.png",
-          "images/portfolio/animal-shelter/booki2.png",
-          "images/portfolio/adventure/MVG.png",
-          "images/portfolio/animal-shelter/booki.png"
+          "images/portfolio/adventure/livres.png"
         ],
         "url": "https://github.com/Sulbat/Booki",
         "technologies": [
