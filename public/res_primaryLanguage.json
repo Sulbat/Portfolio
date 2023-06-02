@@ -36,7 +36,7 @@
         "description": "Projet visant à intégrer en React la maquette d'un site de recherche de logements courte durée pour particuliers. Difficultées : Bien comprendre le système d'arborescence que propose React et apprendre à utiliser SAAS pour un gain de temps au niveau du CSS ",
         "images": [
           "images/portfolio/photography/kasa.png",
-          "images/portfolio/photography/kasa2.png"
+          "images/portfolio/photography/kasa2.0.png"
         ],
         "url": "https://github.com/Sulbat/Kasa",
         "technologies": [
@@ -60,7 +60,7 @@
         "description": "Voici un projet ou j'ai été solicité en tant que renfort pour intégrer un back-end fonctionnel. Ici le principal challenge était de permettre la création d'utilisateurs, la gestion de ceux-ci de manière sécurisée (hash des mots de passes, tokens d'authentifiaction), ainsi que l'ajout et la suppression de manière dynamique de livres.",
         "images": [
           "images/portfolio/adventure/MVG.png",
-          "images/portfolio/adventure/MVG2.png"
+          "images/portfolio/adventure/MVG2.0.png"
         ],
         "url": "https://github.com/Sulbat/Mon-Vieux-Grimoire",
         "technologies": [
